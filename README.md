@@ -11,3 +11,6 @@ cd ~/code/cli
 
 ./build.sh ???
 ```
+
+Set a custom clone location like so:
+`CLI_CLONE_PATH="/custom/path/to/cli" ./setup.sh`
